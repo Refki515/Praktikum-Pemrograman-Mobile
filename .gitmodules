@@ -1,0 +1,15 @@
+[submodule "Modul-01"]
+	path = Modul-01
+	url = https://github.com/Refki515/Modul-01.git
+[submodule "Modul-02"]
+	path = Modul-02
+	url = https://github.com/Refki515/Modul-02.git
+[submodule "Modul-03"]
+	path = Modul-03
+	url = https://github.com/Refki515/Modul-03.git
+[submodule "Modul-04"]
+	path = Modul-04
+	url = https://github.com/Refki515/Modul-04.git
+[submodule "Modul-05"]
+	path = Modul-05
+	url = https://github.com/Refki515/Modul-05.git
