@@ -28,3 +28,6 @@
 [submodule "Modul-10"]
 	path = Modul-10
 	url = https://github.com/Refki515/Modul-10.git
+[submodule "Modul-11"]
+	path = Modul-11
+	url = https://github.com/Refki515/Modul-11.git

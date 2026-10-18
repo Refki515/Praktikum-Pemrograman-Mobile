@@ -14,6 +14,7 @@ Repositori induk praktikum Pemrograman Mobile (Flutter) - Semester 5.
 | 08 | Navigasi dengan Argumen | [Modul-08](https://github.com/Refki515/Modul-08) |
 | 09 | StatefulWidget | [Modul-09](https://github.com/Refki515/Modul-09) |
 | 10 | GUI, Navigasi, Integrasi API JSON | [Modul-10](https://github.com/Refki515/Modul-10) |
+| 11 | State Management GetX | [Modul-11](https://github.com/Refki515/Modul-11) |
 
 ---
 **Author**: Muhammad Refki Andesta (240605110232)
