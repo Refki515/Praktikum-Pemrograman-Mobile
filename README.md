@@ -15,7 +15,7 @@ Repositori induk praktikum Pemrograman Mobile (Flutter) - Semester 5. Mengacu pa
 | 09 | StatefulWidget | [Modul-09](https://github.com/Refki515/Modul-09-StatefulWidget) |
 | 10 | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Modul-10](https://github.com/Refki515/Modul-10-Desain-GUI-Navigasi-dan-Integrasi-API-dengan-JSON-Serialization-di-Flutter) |
 | 11 | Manajemen State dengan GetX | [Modul-11](https://github.com/Refki515/Modul-11-Manajemen-State-dengan-GetX) |
-| UTS | Proyek Aplikasi PetCare (MVVM, Navigasi, JSON Asset) | [petcareUTSMobile](./petcareUTSMobile) |
+| UTS | Proyek Aplikasi PetCare (MVVM, Navigasi, JSON Asset) | [petcareUTSMobile](https://github.com/Refki515/petcareUTSMobile) |
 
 ---
 **Author**: Muhammad Refki Andesta (240605110232)
