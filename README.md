@@ -16,6 +16,7 @@ Repositori induk praktikum Pemrograman Mobile (Flutter) - Semester 5. Mengacu pa
 | 10 | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Modul-10](https://github.com/Refki515/Modul-10-Desain-GUI-Navigasi-dan-Integrasi-API-dengan-JSON-Serialization-di-Flutter) | [PDF](./laporan/Laporan_Modul_10.pdf) |
 | 11 | Manajemen State dengan GetX | [Modul-11](https://github.com/Refki515/Modul-11-Manajemen-State-dengan-GetX) | [PDF](./laporan/Laporan_Modul_11.pdf) |
 | UTS | Proyek Aplikasi PetCare (MVVM, Navigasi, JSON Asset) | [petcareUTSMobile](https://github.com/Refki515/petcareUTSMobile) | [PDF](./laporan/Laporan_UTS_PetCare.pdf) |
+| Project | Lokasi GPS & Geocoding | [lokasi_flutter](https://github.com/Refki515/lokasi_flutter) | - |
 
 ---
 **Author**: Muhammad Refki Andesta (240605110232)
